@@ -94,20 +94,39 @@ def app():
                             xanchor='center',
                             font=dict(size=22, family='Arial', color='white')
                         ),
+                        # xaxis=dict(
+                        #     title='Date',
+                        #     showgrid=True,
+                        #     gridcolor='rgba(255,255,255,0.1)',
+                        #     tickfont=dict(color='lightgray'),
+                        #     titlefont=dict(color='white')
+                        # ),
                         xaxis=dict(
-                            title='Date',
-                            showgrid=True,
-                            gridcolor='rgba(255,255,255,0.1)',
-                            tickfont=dict(color='lightgray'),
-                            titlefont=dict(color='white')
-                        ),
+    title=dict(
+        text='Date',
+        font=dict(color='white')
+    ),
+    showgrid=True,
+    gridcolor='rgba(255,255,255,0.1)',
+    tickfont=dict(color='lightgray')
+),
+                        # yaxis=dict(
+                        #     title='Price (₹)',
+                        #     showgrid=True,
+                        #     gridcolor='rgba(255,255,255,0.1)',
+                        #     tickfont=dict(color='lightgray'),
+                        #     titlefont=dict(color='white')
+                        # ),
+
                         yaxis=dict(
-                            title='Price (₹)',
-                            showgrid=True,
-                            gridcolor='rgba(255,255,255,0.1)',
-                            tickfont=dict(color='lightgray'),
-                            titlefont=dict(color='white')
-                        ),
+    title=dict(
+        text='Price (₹)',
+        font=dict(color='white')
+    ),
+    showgrid=True,
+    gridcolor='rgba(255,255,255,0.1)',
+    tickfont=dict(color='lightgray')
+),
                         hovermode='x unified',
                         margin=dict(t=70, l=60, r=40, b=60),
                         plot_bgcolor='#111111',
