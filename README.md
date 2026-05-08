@@ -173,9 +173,9 @@ streamlit run main.py
 
 ## 📊 Real-Time Stock Dashboard
 
-```md
-![Real Time Data](screenshots/realtime-data.png)
-```
+![Real Time Data](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(790).png)
+![](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(791).png)
+
 
 <img width="100%" src="screenshots/realtime-data.png" />
 
@@ -223,9 +223,9 @@ streamlit run main.py
 
 ## 📉 Market Mood Visualization
 
-```md
-![Market Mood](screenshots/market-mood.png)
-```
+
+![Market Mood]()
+
 
 <img width="100%" src="screenshots/market-mood.png" />
 
@@ -233,9 +233,10 @@ streamlit run main.py
 
 ## 📰 News & Sentiment Scoring
 
-```md
-![Articles and Scores](screenshots/articles-scores.png)
-```
+
+![Articles and Scores](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(798).png)
+![Articles and Scores](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(797).png)
+
 
 <img width="100%" src="screenshots/articles-scores.png" />
 
@@ -243,9 +244,9 @@ streamlit run main.py
 
 ## 🧠 Pi AI Assistant
 
-```md
-![Pi Assistant](screenshots/pi-assistant.png)
-```
+
+![Pi Assistant](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(799).png)
+
 
 <img width="100%" src="screenshots/pi-assistant.png" />
 
@@ -253,9 +254,7 @@ streamlit run main.py
 
 ## 💬 AI Stock Insights Response
 
-```md
-![AI Insights](screenshots/pi-response.png)
-```
+![AI Insights](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(800).png)
 
 <img width="100%" src="screenshots/pi-response.png" />
 
