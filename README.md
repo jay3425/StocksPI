@@ -98,22 +98,40 @@ StockSPI integrates AI and NLP models to:
 # 📂 Project Structure
 
 ```bash
-StockSPI/
+Sector Ana 2 - Copy/
 │
+├── .env
+├── 2.png
+├── home.py
+├── l.css
+├── l.html
 ├── main.py
+├── Requirements.txt
+├── sector.py
+├── sentiment.py
 ├── stock.py
-├── requirements.txt
+├── style.css
+│
+├── Untitled Diagram copy.drawio.png
+├── Untitled Diagram copy.png
+├── Untitled Diagram.drawio
+├── UseCaseDiagram.drawio
+├── UseCaseDiagram.png
+├── UseCaseDiagram.svg
+│
+├── .streamlit/
+│   └── config.toml
+│
+├── .vscode/
+│   └── settings.json
 │
 ├── views/
 │   ├── data.py
-│   ├── dashboard.py
-│   ├── sentiment.py
-│   └── analytics.py
+│   ├── prediction.py
+│   ├── visuals.py
+│   └── __pycache__/
 │
-├── assets/
-│   └── images
-│
-└── README.md
+└── __pycache__/
 ```
 
 ---
