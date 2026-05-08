@@ -1,4 +1,4 @@
-# 📈 StocksPI — AI-Powered Stock Market Intelligence Platform
+# 📈 StockSPI — AI-Powered Stock Market Intelligence Platform
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge\&logo=streamlit)
@@ -7,7 +7,7 @@
 
 ## 🚀 Overview
 
-**StocksPI** is an advanced AI-powered stock market analysis platform built using **Python**, **Streamlit**, **Machine Learning**, and **Financial APIs**.
+**StockSPI** is an advanced AI-powered stock market analysis platform built using **Python**, **Streamlit**, **Machine Learning**, and **Financial APIs**.
 
 The project combines:
 
@@ -161,13 +161,62 @@ streamlit run main.py
 
 # 📸 Application Preview
 
-## Dashboard Features
+## 🖼️ Screenshots
 
-* 📈 Live market charts
-* 📊 Financial analytics
-* 🧠 AI sentiment engine
-* 🔎 Technical indicators
-* 💡 Smart stock insights
+### 📊 Main Dashboard
+
+Add your dashboard screenshot here:
+
+```md
+![Dashboard](screenshots/dashboard.png)
+```
+
+---
+
+### 📈 Stock Analysis View
+
+```md
+![Stock Analysis](screenshots/analysis.png)
+```
+
+---
+
+### 🤖 AI Sentiment Analysis
+
+```md
+![Sentiment Analysis](screenshots/sentiment.png)
+```
+
+---
+
+## 🎥 Demo Video
+
+Watch the complete project walkthrough here:
+
+```md
+[▶️ Watch Demo Video](https://your-demo-link-here.com)
+```
+
+You can upload your demo on:
+
+* YouTube
+* Google Drive
+* LinkedIn
+* GitHub Releases
+
+---
+
+## 💡 Suggested Demo Flow
+
+Your demo video can include:
+
+1. Project Introduction
+2. Dashboard Overview
+3. Stock Search Feature
+4. Interactive Graphs
+5. AI Sentiment Analysis
+6. Technical Indicators
+7. Final Summary
 
 ---
 
