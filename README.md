@@ -164,7 +164,8 @@ streamlit run main.py
 ## 🏠 Home Page
 
 ```md
-![Home]([Screenshots/home.png](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(789).png))
+![Home]
+!(https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(789).png)
 ```
 
 <img width="100%" src="screenshots/home.png" />
