@@ -256,7 +256,7 @@ streamlit run main.py
 
 ![AI Insights](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(800).png)
 
-<img width="100%" src="[screenshots/pi-response.png](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(800).png)" />
+<img width="100%" src="https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(800).png" />
 
 ---
 
