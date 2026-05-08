@@ -251,16 +251,8 @@ streamlit run main.py
 
 Watch the complete project walkthrough here:
 
-```md
 [▶️ Watch Demo Video](https://your-demo-link-here.com)
-```
 
-You can upload your demo on:
-
-* YouTube
-* Google Drive
-* LinkedIn
-* GitHub Releases
 
 ---
 
