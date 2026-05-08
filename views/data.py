@@ -127,7 +127,10 @@ def app():
 
     if ticker:
             stock = yf.Ticker(ticker)
-            info = stock.info
+            try:
+                info = stock.info
+            except:
+                info = {}
 
             col1, col2, col3 = st.columns(3)
             with col1:
