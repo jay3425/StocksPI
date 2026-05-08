@@ -167,7 +167,6 @@ streamlit run main.py
 ![Home](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(789).png)
 
 
-<img width="100%" src="screenshots/home.png" />
 
 ---
 
@@ -193,9 +192,9 @@ streamlit run main.py
 
 ## 🕯️ Candlestick Chart Analysis
 
-```md
-![Candlestick Chart](screenshots/candlestick.png)
-```
+
+![Candlestick Chart](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(795).png)
+
 
 
 
@@ -223,7 +222,7 @@ streamlit run main.py
 ## 📉 Market Mood Visualization
 
 
-![Market Mood]()
+![Market Mood](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(797).png)
 
 
 
@@ -234,7 +233,6 @@ streamlit run main.py
 
 
 ![Articles and Scores](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(798).png)
-![Articles and Scores](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(797).png)
 
 
 
