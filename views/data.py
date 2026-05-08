@@ -153,7 +153,9 @@ def app():
 
             col1, col2, col3 = st.columns(3)
             with col1:
-                st.metric("Current Price", f"${info['regularMarketPrice']}")
+                # st.metric("Current Price", f"${info['regularMarketPrice']}")
+                price = info.get('regularMarketPrice', 'N/A')
+                st.metric("Current Price", f"${price}")
                 st.metric("Previous Close", f"${info['previousClose']}")
             with col2:
                 st.metric("Market Cap", f"${round(info['marketCap'] / 1e9, 2)} B")
