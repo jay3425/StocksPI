@@ -112,12 +112,6 @@ Sector Ana 2 - Copy/
 ├── stock.py
 ├── style.css
 │
-├── Untitled Diagram copy.drawio.png
-├── Untitled Diagram copy.png
-├── Untitled Diagram.drawio
-├── UseCaseDiagram.drawio
-├── UseCaseDiagram.png
-├── UseCaseDiagram.svg
 │
 ├── .streamlit/
 │   └── config.toml
