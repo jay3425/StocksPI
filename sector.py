@@ -30,7 +30,7 @@ def app():
         # OPENAI_API_KEY = "sk-xxxx"
 
     # client = OpenAI(api_key="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")
-    client = Groq(api_key="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")
+    client = Groq(api_key="Put Your Groq API Key")
         # ---------------------------------------------------------
         # PI SYSTEM PROMPT
         # ---------------------------------------------------------
