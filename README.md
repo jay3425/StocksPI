@@ -173,22 +173,16 @@ streamlit run main.py
 ## 📊 Real-Time Stock Dashboard
 
 ![Real Time Data](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(790).png)
-![](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(791).png)
 
 
 
 
 ---
 
-## 📈 Technical Visual Analytics
-
-```md
-![Technical Visuals](screenshots/visuals.png)
-```
 
 
 
----
+
 
 ## 🕯️ Candlestick Chart Analysis
 
