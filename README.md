@@ -177,7 +177,7 @@ streamlit run main.py
 ![](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(791).png)
 
 
-<img width="100%" src="screenshots/realtime-data.png" />
+
 
 ---
 
@@ -187,7 +187,7 @@ streamlit run main.py
 ![Technical Visuals](screenshots/visuals.png)
 ```
 
-<img width="100%" src="screenshots/visuals.png" />
+
 
 ---
 
@@ -197,17 +197,16 @@ streamlit run main.py
 ![Candlestick Chart](screenshots/candlestick.png)
 ```
 
-<img width="100%" src="screenshots/candlestick.png" />
+
 
 ---
 
 ## 🤖 AI Prediction Engine
 
-```md
-![Prediction Engine](screenshots/prediction.png)
-```
 
-<img width="100%" src="screenshots/prediction.png" />
+![Prediction Engine](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(793).png)
+
+
 
 ---
 
@@ -217,7 +216,7 @@ streamlit run main.py
 ![Sentiment Dashboard](screenshots/sentiment-dashboard.png)
 ```
 
-<img width="100%" src="screenshots/sentiment-dashboard.png" />
+
 
 ---
 
@@ -227,7 +226,7 @@ streamlit run main.py
 ![Market Mood]()
 
 
-<img width="100%" src="screenshots/market-mood.png" />
+
 
 ---
 
@@ -238,7 +237,7 @@ streamlit run main.py
 ![Articles and Scores](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(797).png)
 
 
-<img width="100%" src="screenshots/articles-scores.png" />
+
 
 ---
 
@@ -248,7 +247,6 @@ streamlit run main.py
 ![Pi Assistant](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(799).png)
 
 
-<img width="100%" src="screenshots/pi-assistant.png" />
 
 ---
 
@@ -256,7 +254,6 @@ streamlit run main.py
 
 ![AI Insights](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(800).png)
 
-<img width="100%" src="https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(800).png" />
 
 ---
 
