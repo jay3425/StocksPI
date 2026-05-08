@@ -211,10 +211,8 @@ streamlit run main.py
 
 ## 😊 Sentiment Analysis Dashboard
 
-```md
-![Sentiment Dashboard](screenshots/sentiment-dashboard.png)
-```
 
+![Sentiment Dashboard](https://github.com/jay3425/StocksPI/blob/main/ScreenShots/Screenshot%20(796).png)
 
 
 ---
