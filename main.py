@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-st.logo(r"\Sector Ana 2 - Copy\2.png")
+st.logo(r"2.png")
 
 st.markdown("""
     <style>
