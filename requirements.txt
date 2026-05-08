@@ -1,0 +1,16 @@
+alpha_vantage
+beautifulsoup4
+groq
+numpy
+openai
+pandas
+plotly
+python-dotenv
+requests
+scikit-learn
+streamlit
+streamlit-autorefresh
+streamlit-option-menu
+transformers
+vaderSentiment
+yfinance
