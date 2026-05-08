@@ -161,31 +161,103 @@ streamlit run main.py
 
 # 📸 Application Preview
 
-## 🖼️ Screenshots
-
-### 📊 Main Dashboard
-
-Add your dashboard screenshot here:
+## 🏠 Home Page
 
 ```md
-![Dashboard](screenshots/dashboard.png)
+![Home](screenshots/home.png)
 ```
+
+<img width="100%" src="screenshots/home.png" />
 
 ---
 
-### 📈 Stock Analysis View
+## 📊 Real-Time Stock Dashboard
 
 ```md
-![Stock Analysis](screenshots/analysis.png)
+![Real Time Data](screenshots/realtime-data.png)
 ```
+
+<img width="100%" src="screenshots/realtime-data.png" />
 
 ---
 
-### 🤖 AI Sentiment Analysis
+## 📈 Technical Visual Analytics
 
 ```md
-![Sentiment Analysis](screenshots/sentiment.png)
+![Technical Visuals](screenshots/visuals.png)
 ```
+
+<img width="100%" src="screenshots/visuals.png" />
+
+---
+
+## 🕯️ Candlestick Chart Analysis
+
+```md
+![Candlestick Chart](screenshots/candlestick.png)
+```
+
+<img width="100%" src="screenshots/candlestick.png" />
+
+---
+
+## 🤖 AI Prediction Engine
+
+```md
+![Prediction Engine](screenshots/prediction.png)
+```
+
+<img width="100%" src="screenshots/prediction.png" />
+
+---
+
+## 😊 Sentiment Analysis Dashboard
+
+```md
+![Sentiment Dashboard](screenshots/sentiment-dashboard.png)
+```
+
+<img width="100%" src="screenshots/sentiment-dashboard.png" />
+
+---
+
+## 📉 Market Mood Visualization
+
+```md
+![Market Mood](screenshots/market-mood.png)
+```
+
+<img width="100%" src="screenshots/market-mood.png" />
+
+---
+
+## 📰 News & Sentiment Scoring
+
+```md
+![Articles and Scores](screenshots/articles-scores.png)
+```
+
+<img width="100%" src="screenshots/articles-scores.png" />
+
+---
+
+## 🧠 Pi AI Assistant
+
+```md
+![Pi Assistant](screenshots/pi-assistant.png)
+```
+
+<img width="100%" src="screenshots/pi-assistant.png" />
+
+---
+
+## 💬 AI Stock Insights Response
+
+```md
+![AI Insights](screenshots/pi-response.png)
+```
+
+<img width="100%" src="screenshots/pi-response.png" />
 
 ---
 
