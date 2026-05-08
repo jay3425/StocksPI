@@ -1,4 +1,4 @@
-# 📈 StockSPI — AI-Powered Stock Market Intelligence Platform
+# 📈 StocksPI — AI-Powered Stock Market Intelligence Platform
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge\&logo=streamlit)
@@ -7,7 +7,7 @@
 
 ## 🚀 Overview
 
-**StockSPI** is an advanced AI-powered stock market analysis platform built using **Python**, **Streamlit**, **Machine Learning**, and **Financial APIs**.
+**StocksPI** is an advanced AI-powered stock market analysis platform built using **Python**, **Streamlit**, **Machine Learning**, and **Financial APIs**.
 
 The project combines:
 
