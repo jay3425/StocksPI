@@ -241,26 +241,7 @@ streamlit run main.py
 
 ---
 
-## 🎥 Demo Video
 
-Watch the complete project walkthrough here:
-
-[▶️ Watch Demo Video](https://your-demo-link-here.com)
-
-
----
-
-## 💡 Suggested Demo Flow
-
-Your demo video can include:
-
-1. Project Introduction
-2. Dashboard Overview
-3. Stock Search Feature
-4. Interactive Graphs
-5. AI Sentiment Analysis
-6. Technical Indicators
-7. Final Summary
 
 ---
 
@@ -308,7 +289,7 @@ These experiences significantly improved understanding of production-level appli
 
 # 👨‍💻 Author
 
-### Developed by [Your Name]
+### Developed by Jay
 
 Passionate about:
 
@@ -317,6 +298,7 @@ Passionate about:
 * Data Science
 * Machine Learning
 * Software Development
+* Software Testing
 
 ---
 
